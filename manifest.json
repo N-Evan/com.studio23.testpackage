@@ -1,0 +1,16 @@
+{
+	"name": "com.studio23.dependency",
+	"displayName": "Test Package",
+	"version": "1.0.0",
+	"unity": "2020.3.40",
+	"author": "Studio 23",
+	"description": "2D Controller",
+	"dependencies":{
+
+	},
+	"repository":{
+		"type":"git",
+		"url": /*GitUrl ending in .git,*/,
+		"revision": "idkman"
+	}
+}
